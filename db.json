@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "71e9",
+      "name": "markkkkk",
+      "birthdate": "2024-05-14",
+      "gender": "Male",
+      "address": "Sabang",
+      "city": "Dasmarinas",
+      "phoneNumber": "09276082570"
+    },
+    {
+      "id": "1d07",
+      "name": "mac",
+      "birthdate": "2024-05-31",
+      "gender": "Male",
+      "address": "Sabang",
+      "city": "dasmarinas",
+      "phoneNumber": "09276082570"
+    },
+    {
+      "id": "47d3",
+      "name": "mark",
+      "birthdate": "2024-05-22",
+      "gender": "Male",
+      "address": "bucandala",
+      "city": "Imus",
+      "phoneNumber": "09276082570"
+    },
+    {
+      "id": "e7a0",
+      "name": "Paul",
+      "birthdate": "2024-06-08",
+      "gender": "Male",
+      "address": "Molino",
+      "city": "imus",
+      "phoneNumber": "0923565434"
+    }
+  ]
+}
